@@ -31,7 +31,4 @@ Python, Google Colab, Pandas, Matplotlib, Seaborn and Scikit-learn.
 4. Run all cells in order to train and evaluate the models.
 
 ## Results
-The best-performing classifier is selected based on the experimental results, including weighted F1-score and accuracy.
-
-## Author
-Student Machine Learning Project
+The best-performing classifier is selected based on the experimental results, including weighted F1-score and accuracy.ct
